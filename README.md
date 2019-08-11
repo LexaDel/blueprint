@@ -1,2 +1,1 @@
-# blueprint
-## Hello
+# Blueprint
